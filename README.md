@@ -20,7 +20,7 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 
 ## Screenshots
 
-#![Project-on-US-Adult-Income-Prediction](https://github.com/nisasohail/Project_US_Income/blob/master/Resources/image.png,image(1).png)
+#![Project-on-US-Adult-Income-Prediction(https://github.com/nisasohail/Project_US_Income/blob/master/Resources/image.png,image(1).png)
 	
 ## Technologies
 Project is created with:
