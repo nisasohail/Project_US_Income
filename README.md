@@ -20,8 +20,13 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 
 ## Screenshots
 
-#![Project-on-US-Adult-Income-Prediction(https://github.com/nisasohail/Project_US_Income/blob/master/Resources/image.png,image(1).png)
-	
+![map](https://user-images.githubusercontent.com/49736893/70659422-af61a080-1c25-11ea-905f-844b62e2296d.png)
+<img width="1365" alt="Screen Shot 2019-12-11 at 2 42 02 PM" src="https://user-images.githubusercontent.com/49736893/70659423-af61a080-1c25-11ea-8175-b5ce38a07285.png">
+<img width="1369" alt="Screen Shot 2019-12-11 at 2 42 52 PM" src="https://user-images.githubusercontent.com/49736893/70659424-af61a080-1c25-11ea-8070-b1183b4254ab.png">
+<img width="1011" alt="Screen Shot 2019-12-11 at 2 50 12 PM" src="https://user-images.githubusercontent.com/49736893/70659425-af61a080-1c25-11ea-86f2-2571e9ef1520.png">
+<img width="734" alt="Screen Shot 2019-12-11 at 2 50 22 PM" src="https://user-images.githubusercontent.com/49736893/70659426-af61a080-1c25-11ea-9a5a-9056597b2d82.png">
+<img width="761" alt="Screen Shot 2019-12-11 at 2 50 35 PM" src="https://user-images.githubusercontent.com/49736893/70659427-af61a080-1c25-11ea-8cbb-cabc10cb24da.png">
+
 ## Technologies
 Project is created with:
 * Python
