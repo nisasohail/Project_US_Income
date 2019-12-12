@@ -39,7 +39,10 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 
 ## Project Screenshots
 
+### Decision Tree
+
 <img width="1011" alt="Screen Shot 2019-12-11 at 2 50 12 PM" src="https://user-images.githubusercontent.com/49736893/70659425-af61a080-1c25-11ea-86f2-2571e9ef1520.png">
+
 <img width="734" alt="Screen Shot 2019-12-11 at 2 50 22 PM" src="https://user-images.githubusercontent.com/49736893/70659426-af61a080-1c25-11ea-9a5a-9056597b2d82.png">
 <img width="761" alt="Screen Shot 2019-12-11 at 2 50 35 PM" src="https://user-images.githubusercontent.com/49736893/70659427-af61a080-1c25-11ea-8cbb-cabc10cb24da.png">
 
