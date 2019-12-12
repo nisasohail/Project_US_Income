@@ -24,6 +24,12 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 
 ## Tableau Vizz
 
+### Income Predictor
+
+* Government worker
+* People with Bachelor
+* Young adults
+
 <img width="1365" alt="Screen Shot 2019-12-11 at 2 42 02 PM" src="https://user-images.githubusercontent.com/49736893/70659423-af61a080-1c25-11ea-8175-b5ce38a07285.png">
 
 <img width="1369" alt="Screen Shot 2019-12-11 at 2 42 52 PM" src="https://user-images.githubusercontent.com/49736893/70659424-af61a080-1c25-11ea-8070-b1183b4254ab.png">
