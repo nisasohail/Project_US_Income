@@ -21,6 +21,9 @@ The project used machine learning, modelling, and Tableau 10.0 for visualization
 ## Screenshots
 
 ![map](https://user-images.githubusercontent.com/49736893/70659422-af61a080-1c25-11ea-905f-844b62e2296d.png)
+
+## Tableau Vizz
+
 <img width="1365" alt="Screen Shot 2019-12-11 at 2 42 02 PM" src="https://user-images.githubusercontent.com/49736893/70659423-af61a080-1c25-11ea-8175-b5ce38a07285.png">
 
 ## Project Screenshots
